@@ -1,0 +1,7 @@
+Package: greet-koushal
+Version: 0.0.1
+Maintainer: example <example@example.com>
+Depends: python3.12
+Architecture: all
+Homepage: http://example.com
+Description: Greetings from koushal
